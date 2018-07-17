@@ -36,3 +36,4 @@ number2 = params[:number2].to_i
   end
   answer.to_s
 end
+end
